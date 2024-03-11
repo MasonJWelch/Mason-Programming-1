@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\MyName.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\MyName.exe
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\MyName.dll
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\MyName\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\MyName\obj\x86\Debug\MyName.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\MyName\obj\x86\Debug\MyName.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\MyName\obj\x86\Debug\MyName.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\MyName\obj\x86\Debug\MyName.exe

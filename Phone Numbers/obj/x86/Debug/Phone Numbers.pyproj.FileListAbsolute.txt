@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\Phone Numbers.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\Phone Numbers.exe
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\Phone Numbers.dll
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\obj\x86\Debug\Phone Numbers.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\obj\x86\Debug\Phone_Numbers.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\obj\x86\Debug\Phone Numbers.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\Phone Numbers\obj\x86\Debug\Phone Numbers.exe

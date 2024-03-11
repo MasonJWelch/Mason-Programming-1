@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\heeeeeeeeello.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\heeeeeeeeello.exe
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\heeeeeeeeello.dll
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\obj\x86\Debug\heeeeeeeeello.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\obj\x86\Debug\heeeeeeeeello.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\obj\x86\Debug\heeeeeeeeello.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\heeeeeeeeello\obj\x86\Debug\heeeeeeeeello.exe

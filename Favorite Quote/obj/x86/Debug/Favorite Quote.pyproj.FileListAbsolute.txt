@@ -1,0 +1,10 @@
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\obj\x86\Debug\Favorite Quote.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\Favorite Quote.dll
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\Favorite Quote\obj\x86\Debug\Favorite Quote.dll

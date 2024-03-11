@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\obj\x86\Debug\P 76a.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\P 76a.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\P 76a.exe
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\P 76a.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\obj\x86\Debug\P 76a.exe
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\obj\x86\Debug\P_76a.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\P 76a\obj\x86\Debug\P 76a.pyproj.GenerateResource.Cache

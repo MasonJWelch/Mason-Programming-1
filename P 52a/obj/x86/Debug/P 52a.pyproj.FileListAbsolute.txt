@@ -1,0 +1,12 @@
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\P 52a.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\P 52a.exe
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\P 52a.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\obj\x86\Debug\P 52a.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\P 52a\obj\x86\Debug\P 52a.exe

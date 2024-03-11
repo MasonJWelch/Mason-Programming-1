@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\Craig Rules.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\Craig Rules.exe
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\Craig Rules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\obj\x86\Debug\Craig Rules.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\obj\x86\Debug\Craig_Rules.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\obj\x86\Debug\Craig Rules.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\Craig Rules\obj\x86\Debug\Craig Rules.exe

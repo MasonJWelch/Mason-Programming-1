@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\About Me.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\About Me.exe
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\About Me.dll
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\About Me\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\About Me\obj\x86\Debug\About Me.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\About Me\obj\x86\Debug\About_Me.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\About Me\obj\x86\Debug\About Me.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\About Me\obj\x86\Debug\About Me.exe

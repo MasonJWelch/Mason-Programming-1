@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\P 58b.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\P 58b.exe
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\P 58b.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\obj\x86\Debug\P 58b.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\obj\x86\Debug\P_58b.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\obj\x86\Debug\P 58b.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\P 58b\obj\x86\Debug\P 58b.exe

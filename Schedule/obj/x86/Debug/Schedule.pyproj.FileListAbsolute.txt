@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\obj\x86\Debug\Schedule.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\obj\x86\Debug\Schedule.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\obj\x86\Debug\Schedule.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\Schedule.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\Schedule.exe
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\Schedule.dll
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\Schedule\obj\x86\Debug\Schedule.exe
