@@ -24,6 +24,7 @@ class MainForm(Form):
 		# label1
 		# 
 		self._label1.Font = System.Drawing.Font("Microsoft YaHei UI", 8.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label1.ForeColor = System.Drawing.Color.Red
 		self._label1.Location = System.Drawing.Point(35, 29)
 		self._label1.Name = "label1"
 		self._label1.Size = System.Drawing.Size(100, 23)
@@ -34,6 +35,7 @@ class MainForm(Form):
 		# label2
 		# 
 		self._label2.Font = System.Drawing.Font("Microsoft YaHei UI", 8.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label2.ForeColor = System.Drawing.Color.Red
 		self._label2.Location = System.Drawing.Point(35, 177)
 		self._label2.Name = "label2"
 		self._label2.Size = System.Drawing.Size(100, 23)
@@ -45,6 +47,7 @@ class MainForm(Form):
 		# label3
 		# 
 		self._label3.Font = System.Drawing.Font("Microsoft YaHei UI", 8.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
+		self._label3.ForeColor = System.Drawing.Color.Red
 		self._label3.Location = System.Drawing.Point(34, 106)
 		self._label3.Name = "label3"
 		self._label3.Size = System.Drawing.Size(100, 23)
@@ -54,6 +57,7 @@ class MainForm(Form):
 		# 
 		# textBox1
 		# 
+		self._textBox1.ForeColor = System.Drawing.Color.Red
 		self._textBox1.Location = System.Drawing.Point(165, 32)
 		self._textBox1.Name = "textBox1"
 		self._textBox1.Size = System.Drawing.Size(100, 20)
@@ -62,6 +66,7 @@ class MainForm(Form):
 		# 
 		# textBox2
 		# 
+		self._textBox2.ForeColor = System.Drawing.Color.Red
 		self._textBox2.Location = System.Drawing.Point(165, 106)
 		self._textBox2.Name = "textBox2"
 		self._textBox2.Size = System.Drawing.Size(100, 20)
@@ -70,8 +75,9 @@ class MainForm(Form):
 		# 
 		# label4
 		# 
+		self._label4.BackColor = System.Drawing.SystemColors.Control
 		self._label4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-		self._label4.ForeColor = System.Drawing.Color.Black
+		self._label4.ForeColor = System.Drawing.Color.Red
 		self._label4.Location = System.Drawing.Point(165, 177)
 		self._label4.Name = "label4"
 		self._label4.Size = System.Drawing.Size(100, 23)
@@ -80,6 +86,7 @@ class MainForm(Form):
 		# 
 		# button1
 		# 
+		self._button1.ForeColor = System.Drawing.Color.Red
 		self._button1.Location = System.Drawing.Point(12, 318)
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(75, 23)
@@ -90,6 +97,7 @@ class MainForm(Form):
 		# 
 		# button2
 		# 
+		self._button2.ForeColor = System.Drawing.Color.Red
 		self._button2.Location = System.Drawing.Point(322, 318)
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(75, 23)
@@ -100,6 +108,7 @@ class MainForm(Form):
 		# 
 		# button3
 		# 
+		self._button3.ForeColor = System.Drawing.Color.Red
 		self._button3.Location = System.Drawing.Point(165, 318)
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(75, 23)
@@ -110,6 +119,7 @@ class MainForm(Form):
 		# 
 		# MainForm
 		# 
+		self.BackColor = System.Drawing.SystemColors.ActiveCaption
 		self.ClientSize = System.Drawing.Size(409, 425)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
@@ -120,6 +130,7 @@ class MainForm(Form):
 		self.Controls.Add(self._label3)
 		self.Controls.Add(self._label2)
 		self.Controls.Add(self._label1)
+		self.ForeColor = System.Drawing.Color.Red
 		self.Name = "MainForm"
 		self.Text = "P 82a"
 		self.ResumeLayout(False)
@@ -130,8 +141,8 @@ class MainForm(Form):
 		pass
 
 	def Button1Click(self, sender, e):
-		limit = float(self._textBox1.text)
-		vehicle = float(self._textBox2.text)
+		limit = float(self._textBox1.Text)
+		vehicle = float(self._textBox2.Text)
 		fine = 20 + (vehicle - limit) * 5
 		self._label4.Text = str(fine)
 
@@ -145,7 +156,10 @@ class MainForm(Form):
 		pass
 
 	def Button2Click(self, sender, e):
-		pass
+		Application.Exit()
 
 	def Button3Click(self, sender, e):
-		pass
+		self._label4.Text = ""
+		self._textBox2.Text = ""
+		self._textBox1.Text = ""
+		

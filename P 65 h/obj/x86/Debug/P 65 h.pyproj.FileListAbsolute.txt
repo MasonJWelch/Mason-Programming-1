@@ -12,3 +12,17 @@ C:\Users\welch.m3\Desktop\Programming 1\P 65 h\obj\x86\Debug\P 65 h.pyprojResolv
 C:\Users\welch.m3\Desktop\Programming 1\P 65 h\obj\x86\Debug\P_65_h.MainForm.resources
 C:\Users\welch.m3\Desktop\Programming 1\P 65 h\obj\x86\Debug\P 65 h.pyproj.GenerateResource.Cache
 C:\Users\welch.m3\Desktop\Programming 1\P 65 h\obj\x86\Debug\P 65 h.exe
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\P 65 h.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\P 65 h.exe
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\P 65 h.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\obj\x86\Debug\P 65 h.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\obj\x86\Debug\P_65_h.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\obj\x86\Debug\P 65 h.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 65 h\obj\x86\Debug\P 65 h.exe

@@ -111,6 +111,7 @@ class MainForm(Form):
 		self._button2.TabIndex = 9
 		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = True
+		self._button2.Click += self.Button2Click
 		# 
 		# button3
 		# 
@@ -120,9 +121,11 @@ class MainForm(Form):
 		self._button3.TabIndex = 10
 		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = True
+		self._button3.Click += self.Button3Click
 		# 
 		# MainForm
 		# 
+		self.BackColor = System.Drawing.Color.FromArgb(255, 128, 0)
 		self.ClientSize = System.Drawing.Size(630, 362)
 		self.Controls.Add(self._button3)
 		self.Controls.Add(self._button2)
@@ -156,7 +159,31 @@ class MainForm(Form):
 			miles = 286
 			gallons = 9
 			
+		if car == "1979 Firebird":
+			miles = 412
+			gallons = 40
+			
+		if car == "1980 Subaru":
+			miles = 361
+			gallons = 18
+			
+		if car == "1975 Cutlass":
+			miles = 161
+			gallons = 11
+			
 		mpg = miles / float(gallons)
 		mpg = round(mpg, 1)
 		
 		self._label7.Text = str(mpg)
+		self._label6.Text = str(gallons)
+		self._label5.Text = str(miles)
+
+	def Button2Click(self, sender, e):
+		self._label7.Text = ""
+		self._label6.Text = ""
+		self._label5.Text = ""
+		self._comboBox1.Text = ""
+		
+
+	def Button3Click(self, sender, e):
+		Application.Exit()
