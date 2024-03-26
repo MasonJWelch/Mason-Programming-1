@@ -30,7 +30,7 @@ class MainForm(Form):
 		self._button1.Name = "button1"
 		self._button1.Size = System.Drawing.Size(75, 23)
 		self._button1.TabIndex = 1
-		self._button1.Text = "button1"
+		self._button1.Text = "Calculate"
 		self._button1.UseVisualStyleBackColor = True
 		self._button1.Click += self.Button1Click
 		# 
@@ -40,7 +40,7 @@ class MainForm(Form):
 		self._button2.Name = "button2"
 		self._button2.Size = System.Drawing.Size(75, 23)
 		self._button2.TabIndex = 2
-		self._button2.Text = "button2"
+		self._button2.Text = "Clear"
 		self._button2.UseVisualStyleBackColor = True
 		self._button2.Click += self.Button2Click
 		# 
@@ -50,7 +50,7 @@ class MainForm(Form):
 		self._button3.Name = "button3"
 		self._button3.Size = System.Drawing.Size(75, 23)
 		self._button3.TabIndex = 3
-		self._button3.Text = "button3"
+		self._button3.Text = "Exit"
 		self._button3.UseVisualStyleBackColor = True
 		self._button3.Click += self.Button3Click
 		# 
