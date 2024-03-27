@@ -1,0 +1,14 @@
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\P 162b.exe.config
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\P 162b.exe
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\P 162b.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\IronPython.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\IronPython.Modules.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\IronPython.xml
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\bin\Debug\IronPython.Modules.xml
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\obj\x86\Debug\P 162b.pyprojResolveAssemblyReference.cache
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\obj\x86\Debug\P_162b.MainForm.resources
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\obj\x86\Debug\P 162b.pyproj.GenerateResource.Cache
+C:\Users\welch.m3\Desktop\Programming 1\Mason-Programming-1\P 162b\obj\x86\Debug\P 162b.exe
